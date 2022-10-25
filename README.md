@@ -17,6 +17,7 @@ Line 13 and 25 - replaced <div> with <nav>.
 Removed <div> from line 27 and replaced <figure> at line 26 with additional alt value.
 Line 28 and 50 - replaced <div> with <main>.
 Line 29, 35, 36, 42, 43, 49, 52, 58, 59, 65, 66 and 72 - replaced <div> with <section>.
+Added id="search-engine-optimization" in line 29 to link with line 16.
 Added alt value in line 30, 37, 44, 54, 61, 68.
 Line 51 and 73 - replaced <div> with <aside>.
 Line 74 and 79 - changed <div> to <footer>.
