@@ -28,6 +28,17 @@ In line 23, removed ".header h1" .
 In line 27, changed ".header div" to "nav".
 In line 35 and 39, removed ".header div" .
 
+## Credit
+
+https://coding-boot-camp.github.io/full-stack/githubprofessional-readme-guide
+
+## License
+
+MIT License
+
+
+
+
 
 
 
