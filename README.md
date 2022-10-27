@@ -29,8 +29,9 @@ In line 27, changed ".header div" to "nav".
 In line 35 and 39, removed ".header div" .
 
 ## Credit
-
+UNB Coding Bootcamp
 https://coding-boot-camp.github.io/full-stack/githubprofessional-readme-guide
+
 
 ## License
 
