@@ -9,8 +9,7 @@ From this code refactor project, I learned about semantic HTML elements, a logic
 
 ## Changelog
 
-In index.html file,
-
+In index file,
 Line 7 - Changed title name.
 Line 11 and 26 - replaced <div> with <header>.
 Line 13 and 25 - replaced <div> with <nav>.
